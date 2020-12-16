@@ -114,7 +114,7 @@ body {
     margin-top: 64px;
     padding-bottom: 12px;
     color: #fff;
-    background: color-mod(var(--darkgrey) l(-5%)) no-repeat center center;
+    background: color(var(--lightblue) l(-5%)) no-repeat center center;
     background-size: cover;
 }
 
@@ -2826,7 +2826,7 @@ Usage (In Ghost editor):
     padding-top: 20px;
     padding-bottom: 60px;
     color: #fff;
-    background: color-mod(var(--darkgrey) l(-5%));
+    background: color-mod(var(--lightblue) l(-5%));
 }
 
 .site-footer-content {
